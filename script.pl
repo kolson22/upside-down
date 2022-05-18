@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 $|=1;
 $count = 0;
 $pid = $$;
